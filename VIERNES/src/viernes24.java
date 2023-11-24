@@ -6,5 +6,6 @@ public class viernes24 {
 
 		System.out.println("Hola que tal");
 		System.out.println("ADIOS");
+		System.out.println("estoy desarrollando");
 	}
 }
