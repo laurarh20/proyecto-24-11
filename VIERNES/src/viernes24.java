@@ -5,6 +5,6 @@ public class viernes24 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hola que tal");
+		System.out.println("ADIOS");
 	}
-
 }
